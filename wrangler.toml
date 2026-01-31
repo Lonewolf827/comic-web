@@ -1,0 +1,8 @@
+name = "comic-web"
+main = "src/index.tsx"
+compatibility_date = "2024-01-01"
+
+[[d1_databases]]
+binding = "DB" # HARUS "DB"
+database_name = "comic-db"
+database_id = "e17b1107-a41b-4704-8bd0-907e658766a9"
